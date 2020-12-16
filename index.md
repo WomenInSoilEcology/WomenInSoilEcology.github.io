@@ -1,1 +1,569 @@
 
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta name="description" content="">
+  <meta name="author" content="">
+
+  <title>Kivlin Lab</title>
+
+  <!-- Bootstrap core CSS -->
+  <link href="vendor/bootstrap/css/bootstrap.css" rel="stylesheet">
+
+  <!-- Custom fonts for this template -->
+  <link href="https://fonts.googleapis.com/css?family=Catamaran:100,200,300,400,500,600,700,800,900" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Lato:100,100i,300,300i,400,400i,700,700i,900,900i" rel="stylesheet">
+
+  <!-- Custom styles for this template -->
+  <link href="css/one-page-wonder.css" rel="stylesheet">
+
+</head>
+
+<body>
+  
+
+  <!-- Navigation -->
+  <nav class="navbar navbar-expand-lg navbar-dark navbar-custom fixed-top">
+    <div class="container">
+      <a class="navbar-brand" href="#"><img src="img/mushrooms2.png" height="50" class="d-inline-block align-center"
+      alt="">Kivlin Lab at UTK</a>
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarResponsive">
+        <ul class="navbar-nav ml-auto">
+          <li class="nav-item">
+            <a class="nav-link" href="#Research">Research</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#People">People</a>
+          </li>
+           <li class="nav-item">
+            <a class="nav-link" href="#News">News</a>
+          </li>
+           <li class="nav-item">
+            <a class="nav-link" href="#Funding">Funding</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#Publications">Publications</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+
+  
+  <header class="masthead text-center text-white">
+    <div class="masthead-content">
+       <div class="container-fluid">
+        <header style="background-image:url('img/gothicmt.jpeg')">
+         <h1 class="masthead-heading mb-0">Kivlin Lab</h1>
+          <h2 class="masthead-subheading">Microbial ecology, ecosystem ecology & global change</h2>
+       </header>
+      </div>
+    </div>
+  </header>
+   
+
+<a id="Research"></a>
+<br>
+<br>
+ <section>
+    <div class="container">
+      <div class="row align-items-center">
+        <div class="col-lg-6 order-lg-2">
+          <div class="p-5">
+            <img class="img-fluid rounded-circle" src="img/labsiteRMBL1.jpeg" alt="">
+          </div>
+        </div>
+        <div class="col-lg-6 order-lg-1">
+          <div class="p-5">
+            <h2 class="display-4">Research</h2>
+            <p>We are interested in drivers of microbial taxonomic and functional distributions in plants and soils, as well as the influence of microbial communities on ecosystem-level processing of carbon and nutrients.</p>
+            <h6 class="display-6">MAPS: Microbial Atlas of Predicted Species Niches</h6>
+            <p>Species distribution models are powerful tools for predicting the distributions of “macro”organisms but have scarcely been applied to microbial taxa. MAPS is the first database to collect SDMs for microbial taxa at the global scale.</p>
+
+            <h6 class="display-6">Global Change: Utilizing Long-term Manipulations & Environmental Gradients </h6>
+            <p>Global change is affecting microbial composition and function, but observing these effects in real time will preclude advancement of global change ecology. Instead, our lab observes global change in real time by utilizing long-term warming experiments and elevational gradients, which are a space-for-time substituion for climate change. This work is centered at The Rocky Mountain Biological Laboratory (RMBL) in Crested Butte, CO. We have characterized plant-associated microbial communities and are currently researching ecosystem-level effects of shifts in microbial composition through field-based reciprocal transplants.</p>
+
+            <h6 class="display-6">Fire at the Wildland-Urban Interface</h6>
+            <p>Climate change and urbanization are increasing the prevalence of wildfires. However, little is known about how soil microbial communities and associated ecosystem function will recover from these combined disturbance pressures. Our research takes place in the Smoky Mountains near Knoxville, TN.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  
+  <a id="People"></a>
+<br>
+<br>
+<br>
+<section>
+    <div class="container">
+      <div class = "row align-items-end">
+        <div class="col-lg-3 order-lg-2">
+         <h2 class="display-4">People</h2>
+        </div>
+        <div class='col-lg-3 order-lg-1'></div>
+         <div class='col-lg-3 order-lg-3'></div>
+       </div>
+    </div>
+    <div class="container">
+      <div class="row align-items-center">
+        <div class="col-lg-3">
+          <div class="p-5">
+            <img class="img-fluid rounded-circle" src="img/labsitestephportrait.jpeg" alt="">
+          </div>
+        </div>
+        <div class="col-lg-9">
+          <div class="p-5">
+            <h5 class="display-5">Stephanie Kivlin, PI</h5>
+            <p>Microorganisms are the proximate drivers of terrestrial carbon cycling, yet we know relatively little about the controllers of microbial distributions, diversity, composition, or function. My research addresses these fundamental questions of microbial ecology with an overarching goal of linking these processes to large-scale ecosystem fluxes of carbon and nutrients under current and future climates. I take a multidisciplinary genes-to-ecosystems approach, integrating microbial traits and gene expression with population demographics, community assembly, and overall ecosystem carbon storage.
+            <br><a href="https://eeb.utk.edu/people/stephanie-kivlin/">https://eeb.utk.edu/people/stephanie-kivlin/</a></p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="container">
+      <div class="row align-items-center">
+        <div class="col-lg-3">
+          <div class="p-5">
+            <img class="img-fluid rounded-circle" src="img/DanielaYaffar.jpg" alt="">
+          </div>
+        </div>
+        <div class="col-lg-9">
+          <div class="p-5">
+            <h5 class="display-5">Daniella Yaffar de la Fuente, PhD student</h5>
+            <p>Daniella is currently pursuing a PhD under the joint advisorship of Stephanie and Rich Norby (ORNL). Her research interests include rhizosphere ecology, tropical root functional traits and soil interactions.
+            <br> <a href="https://eeb.utk.edu/people/daniela-yaffar/">https://eeb.utk.edu/people/daniela-yaffar/</a></p>
+          </div>
+        </div>
+      </div>
+	</div>
+        <div class="col-lg-9">
+          <div class="p-5">
+            <h5 class="display-5">Abigail Ireland, MS student</h5>
+            <p>Abby is currently pursuing a MS under the joint advisorship of Stephanie and Karen Hughes. Her research interests include fungal evolution and environmental distributions.       
+          </div>
+        </div>
+      </div>   	    
+      <div class="row align-items-center">
+        <div class="col-lg-3">
+          <div class="p-5">
+            <img class="img-fluid rounded-circle" src="img/motate.jpeg" alt="">
+          </div>
+        </div>
+        <div class="col-lg-9">
+          <div class="p-5">
+            <h5 class="display-5">Mo Tate, lab technician</h5>
+            <p>Undergraduate researcher summer and fall 2019,  lab technician January 2020 - present</p>
+          </div>
+        </div>
+      </div>
+      <div class="container">
+	<div class="row align-items-center">
+        <div class="col-lg-3">
+          <div class="p-5">
+            <img class="img-fluid rounded-circle" src="img/labsiteUGresearch.jpeg" alt="">
+          </div>
+        </div>
+        <div class="col-lg-9">
+          <div class="p-5">
+            <h5 class="display-5">Jackson Turner, lab technician</h5>
+            <p>Undergraduate researcher summer and fall 2019,  lab technician May 2020 - present</p>
+          </div>
+        </div>
+      </div>
+      <div class="row align-items-center">
+        <div class="col-lg-3">
+          <div class="p-5">
+            <img class="img-fluid rounded-circle" src="img/labsiteUGresearch.jpeg" alt="">
+          </div>
+        </div>
+        <div class="col-lg-9">
+          <div class="p-5">
+            <h5 class="display-5">Undergraduate researchers</h5>
+            <p>(Fall 2020) Keilah Carter, Caleb Keoho, and Allison Padovani</p>
+          </div>
+        </div>
+      </div>
+    </div>
+    </div>
+</section>
+  
+<br>
+<br>
+  
+<a id="News"></a>
+<br>
+<section>
+   <div class="container">
+      <div class = "row align-items-center">
+        <div class="col-lg-7 order-lg-1">
+          <a class="twitter-timeline" data-width="container-fluid" data-height="600" data-theme="light" href="https://twitter.com/stephaniekivlin?ref_src=twsrc%5Etfw">Tweets by stephaniekivlin</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+        </div>
+            <div class="col-lg-1 order-lg-2"></div>
+             <div class='col-lg-4 order-lg-3'>
+              <div class="row align-items-end">
+                <h2 class="display-4">Lab news and updates</h2>
+              </div>
+             </div>
+          </div>
+       </div>
+</section>
+
+<br>
+<br>
+  
+  
+<a id="Funding"></a>
+<br>
+<br>
+<section>
+  <div class="container-fluid">
+    <div class="row align-items-center">
+      <div class="p-5"> 
+      <h2 class="display-4">Funding</h2>
+      </div>
+
+<a class="btn btn-primary" data-toggle="collapse" href="#grants" role="button" aria-expanded="false" aria-controls="collapseExample">
+    Show funded research grants and fellowships
+  </a>
+</div>
+<div class="collapse" id="grants"> 
+<div class="container-fluid"><p>* Undergraduate student, † Graduate student, ‡ Postdoctoral Researcher</p></div>
+
+<div class="container">
+  <div class="row align-items-center">
+    <div class="col-lg-2">
+      <p>2019-2023</p>
+    </div>
+    <div class="col-lg-9">
+      <p>USDA: Optimizing plant-soil microbial interactions through crop diversification to enhance sustainability in southeastern croplands. S. Jagadamma, J. Lee, S.N. Kivlin, A. McClure, L. Duncan</p>
+    </div>
+  </div>
+
+<div class="container">
+  <div class="row align-items-center">
+    <div class="col-lg-2">
+      <p>2019</p>
+    </div>
+    <div class="col-lg-9">
+      <p>UTK SARIF: Replacement of the EEB Bioinformatics Data Analysis Server. E.P. Derryberry, S.N. Kivlin, M. Papes, and B. O’Meara.</p>
+    </div>
+  </div>
+</div>
+
+<div class="container">
+  <div class="row align-items-center">
+    <div class="col-lg-2">
+      <p>2019</p>
+    </div>
+    <div class="col-lg-9">
+      <p>Texas Ecological Laboratory: Characterizing interannual shifts in fungal symbionts across environmental and biotic gradients in Texas grasslands. S. Kivlin</p>
+    </div>
+  </div>
+</div>
+
+<div class="container">
+  <div class="row align-items-center">
+    <div class="col-lg-2">
+      <p>2019</p>
+    </div>
+    <div class="col-lg-9">
+      <p>NIMBioS Working Group: Creating a framework to interpret and model plant and mycorrhizal fungal traits at the global scale. S.N. Kivlin, C. Iversen, A.E. Zanne.</p>
+    </div>
+  </div>
+</div>
+
+<div class="container">
+  <div class="row align-items-center">
+    <div class="col-lg-2">
+      <p>2019-2021</p>
+    </div>
+    <div class="col-lg-9">
+      <p>National Science Foundation SG: Impacts of long-term warming on plant and microbial control of soil carbon cycling. S.N. Kivlin and L. Souza </p>
+    </div>
+  </div>
+</div>
+
+<div class="container">
+  <div class="row align-items-center">
+    <div class="col-lg-2">
+      <p>2018</p>
+    </div>
+    <div class="col-lg-9">
+      <p>DOE JGI: Utilizing microbial functional response to follow soil carbon and nutrient cycling recovery and resilience following the November 2016 fire in the Great Smoky Mountains National Park. K. Hughes and S.N. Kivlin</p>
+    </div>
+  </div>
+</div>
+
+<div class="container">
+  <div class="row align-items-center">
+    <div class="col-lg-2">
+      <p>2018</p>
+    </div>
+    <div class="col-lg-9">
+      <p>Texas EcoLabs: Characterizing arbuscular mycorrhizal fungi across environmental and biotic gradients in Texas grasslands. S.N. Kivlin</p>
+    </div>
+  </div>
+</div>
+
+<div class="container">
+  <div class="row align-items-center">
+    <div class="col-lg-2">
+      <p>2018</p>
+    </div>
+    <div class="col-lg-9">
+      <p>Breedlove, Dennis Award, UTK. The effects of 
+				chronic urbanization and fire on belowground plant-fungal
+				symbioses in the Great Smoky Mountains National Park. V.R. Harpe* and S.N. Kivlin</p>
+    </div>
+  </div>
+</div>
+
+<div class="container">
+  <div class="row align-items-center">
+    <div class="col-lg-2">
+      <p>2018</p>
+    </div>
+    <div class="col-lg-9">
+      <p>Breedlove, Dennis Award, UTK. The effects of 
+				chronic urbanization and fire on aboveground plant-fungal
+				symbioses in the Great Smoky Mountains National Park. J. Turner* and S.N. Kivlin</p>
+    </div>
+  </div>
+</div>
+
+<div class="container">
+  <div class="row align-items-center">
+    <div class="col-lg-2">
+      <p>2018</p>
+    </div>
+    <div class="col-lg-9">
+      <p>Department of Energy Joint Genomes Institute Community Science Program: Plant-fungal symbiont decoupling affects soil carbon-degrading gene expression. M. Mann†, S.N. Kivlin, J.A.M Moore‡ and J.A. Rudgers</p>
+    </div>
+  </div>
+</div>
+
+<div class="container">
+  <div class="row align-items-center">
+    <div class="col-lg-2">
+      <p>2018</p>
+    </div>
+    <div class="col-lg-9">
+      <p>Department of Energy Joint Genomes Institute Community Science Program: Microbial contributions to soil carbon storage under long-term warming. S.N. Kivlin, J.A.M. Moore‡, J. Harte, and J.A. Rudgers</p>
+    </div>
+  </div>
+</div>
+
+<div class="container">
+  <div class="row align-items-center">
+    <div class="col-lg-2">
+      <p>2018</p>
+    </div>
+    <div class="col-lg-9">
+      <p>RMBL Research Fellowship: Connecting Microbial
+				Composition Responses Observed in EcosystemS
+				(MICROBES) to long-term soil carbon cycling under global
+				change. S.N. Kivlin</p>
+    </div>
+  </div>
+</div>
+
+<div class="container">
+  <div class="row align-items-center">
+    <div class="col-lg-2">
+      <p>2015 - 2017</p>
+    </div>
+    <div class="col-lg-9">
+      <p>National Institutes of Health: CETI Pilot Program How does 
+			 	climate change alter the activities of pathogens and 
+symbionts to affect host health? J.A. Rudgers, S.N. Kivlin,   
+and M.E. Kazenel</p>
+    </div>
+  </div>
+</div>
+
+<div class="container">
+  <div class="row align-items-center">
+    <div class="col-lg-2">
+      <p>2014 - 2017</p>
+    </div>
+    <div class="col-lg-9">
+      <p>National Science Foundation DEB The potential for climate-induced disruption of plant-microbe symbioses along altitudinal gradients. J.A. Rudgers (PI), D.L. Taylor (Co-PI), S.N. Kivlin (Senior Researcher), R.L. Sinsabaugh (Senior Researcher), and J. Harte (Senior Researcher).</p>
+    </div>
+  </div>
+</div>
+
+</div>
+</div>
+
+<div class="container-fluid">
+  <div class="p-4">
+      <h5 class="display-5">Kivin lab partners</h5>
+  </div>
+</div>
+    </div>
+  <div class="container">
+    <div class="row align-items-center">
+      <div class="col-lg-3">
+        <div class="p-5">
+            <a href="https://www.usda.gov/"><img class="img-fluid" src="img/partners/USDA_logo.png" alt=""></a>
+          </div>
+        </div>
+        <div class="col-lg-3">
+          <div class="p-5">
+            <a href="https://www.utk.edu/"><img class="img-fluid" src="img/partners/UT_logo.jpg" alt=""></a>
+          </div>
+        </div>
+        <div class="col-lg-3">
+          <div class="p-5">
+            <a href="https://www.nsf.gov/"><img class="img-fluid" src="img/partners/NSF_logo.jpg" alt=""></a>
+          </div>
+        </div>
+        <div class="col-lg-3">
+          <div class="p-5">
+            <a href="http://www.nimbios.org/"><img class="img-fluid" src="img/partners/nimbios_logo.png" alt=""></a>
+          </div>
+        </div>
+      </div>
+  </div>
+  <div class="container">
+    <div class="row align-items-center">
+        <div class="col-lg-4">
+          <div class="p-6">
+            <a href="https://texasecolab.org/"><img class="img-fluid" src="img/partners/TXEcolab_logo.png" alt=""></a>
+          </div>
+        </div>
+        <div class="col-lg-2">
+        </div>
+        <div class="col-lg-4">
+          <div class="p-5">
+            <a href="https://jgi.doe.gov/"><img class="img-fluid" src="img/partners/JGI_logo.jpg" alt=""></a>
+          </div>
+        </div>
+      </div>
+  </div>
+
+</section>
+  
+  
+  <a id="Publications"></a>
+<br>
+<br>
+  <section>
+    <div class="container-fluid">
+      <div class="row align-items-center">
+          <div class="p-5">
+            <h2 class="display-4">Publications</h2>
+            <p>¥ Undergraduate student, † Graduate student, ‡ Postdoctoral Researcher
+<br>(39) Roche, M., I. Pearse, L. Bialic-Murphy, S.N. Kivlin, H. Sofaer, and S. Kalisz. In press. Negative effects of an allelopathic invader on individual AM fungal plant species scale to community-level responses. Ecology
+<br>
+<br>(38) Lyons, K.G., J.A. Rudgers, D.L. Taylor, S.N. Kivlin, M. Mann†, M. Lenihan*, O. Royball*, K. Carroll*, and K. Keynoso*. In press. Culturable root endophytes under experimental warming and along elevational gradients in the Rocky Mountains. Fungal Ecology
+<br>
+<br>(37) Rudgers, J.A., M.E. Afkhami, L. Bell-Dereske‡, Y. A. Chung, K. Crawford, S.N. Kivlin, M. Mann†, and M. Nunez. In press. Climate disruption of plant-microbe interactions. Annual Reviews in Ecology, Evolution and Systematics
+<br>		    
+<br>(36) Kokkoris, V., P.M. Antunes, C. Fahey‡, J. Fordyce, S.N. Kivlin, Y. Lekberg and M.M. Hart. 2020. Evidence of covariation between plant and arbuscular mycorrhizal fungal communities. New Phytologist 		    
+<br>
+<br>(35) Kivlin, S.N. Global mycorrhizal fungal range sizes vary within and among mycorrhizal guilds but are not correlated with dispersal traits. Journal of Biogeography
+<br>
+<br>(34) Beals, K.K.†, J.A.M. Moore‡, S.N. Kivlin, S.L.J. Bayliss†, C.Y. Lumibao‡, L.C. Moorhead‡, M. Patel†, J.L. Summers†, I.M. Ware†, J.K. Bailey, and J.A. Schweitzer. Predicting plant-soil feedback in the field: competitive interactions affect growth more than stress or disturbance. Frontiers in Microbiology
+<br>
+<br>(33) Hughes, K.W., A. Case*, P.B. Matheny, S.N. Kivlin, R.H. Petersen, A.N. Miller, and T. Iturriaga. Secret lifestyles of the post-fire fungus Sphaerosporella. American Journal of Botany
+<br>
+<br>(32) Hawkes C.V., M. Shinada*, and S.N. Kivlin. Historical climate legacies on soil respiration persist despite 4 years of extreme change in rainfall. Soil Biology and Biochemistry
+<br>
+<br>(31) Kivlin, S.N. and C.V. Hawkes. 2020. Spatial and temporal turnover of soil microbial communities is not linked to function in a primary tropical forest. Ecology e02985.
+<br>
+<br>(30) Kivlin, S.N., S. Fei, S. Kalisz, and C. Averill. 2020. Microbial Ecology meets Macroecology: Developing a process-based understanding of microbial role in global ecosystems. Bulletin of the Ecological Society of America e01645. 
+<br>
+<br>(29) Tipton, L.‡, G. Zahn‡, E. Datlof†, S.N. Kivlin, P. Sheridan, A.S. Amend, and N.A. Hynson. 2019. Fungal aerobiota communities are unaffected by environmental conditions over a thirteen-year time series from Mauna Loa Observatory. Proceedings of the National Academy of Sciences 116:25728-25733.
+<br>
+<br>(28) Averill, C., J.M.T. Bhatnagar, M. Dietz, W.D. Pearse, and S.N. Kivlin. 2019. Global imprint of plant mycorrhizal associations on plant nutrient use efficiency traits. Proceedings of the National Academy of Sciences 116:23163-23168.
+<br>
+<br>(27) Lynn, J.S.†, M.R. Kazenel†, S.N. Kivlin, and J.A. Rudgers. 2019 Context-dependent biotic interactions predict plant abundance across steep environmental gradients. Ecography 42:1600-1612.
+<br>
+<br>(26) Kazenel, M.R.†, S.N. Kivlin, J.S. Lynn†, D.L. Taylor, and J.A. Rudgers. 2019. Altitudinal gradients do not predict responses of plant symbionts to experimental warming. Ecology 100:e02740.
+<br>
+<br>(25) Kivlin, S.N., M.R. Kazenel†, J.S. Lynn†, D.L. Taylor, and J.A. Rudgers. 2019. Plant identity influences foliar endophytes more than elevation in the Colorado Rocky Mountains. Microbial Ecology 78:688-698.
+<br>
+<br>(24) Sulman, B.N., E. Shevliakova, E.R. Brzostek, S.N. Kivlin, S. Malyshev, D.N.L. Menge, and X. Zhang. 2019. Diversity in nitrogen acquisition strategies enables enhanced terrestrial carbon storage. Global Biogeochemical Cycles 33:501-523.
+<br>
+<br>(23) Kivlin, S.N., R.A. Bedoya, and C.V. Hawkes. 2018. Heterogeneity in arbuscular mycorrhizal fungal communities may contribute to inconsistent plant-soil feedback in Neotropical rainforests. Plant and Soil 432:29-44.
+<br>
+<br>(22) Sulman, B.N., J.A.M. Moore‡, R. Abramoff, C. Averill, S.N. Kivlin, K. Georgiou, B. Sridhar, M. Hartman, G. Wang, W.R. Wieder, M.A. Bradford, Y. Luo, M. Mayes, E. Morrison, W.J. Riley, A. Salazar, J.P. Schimel, J. Tang, and A.T. Classen. 2018. Multiple models and experiments underscore large uncertainty in soil carbon dynamics. Biogeochemistry 141:109-123.
+<br>
+<br>(21) Lekberg, Y., J.D. Bever, R.A. Bunn, R.M. Calaway, M.M. Hart, S.N. Kivlin, J.N. Klironomos, B.G. Larkin, J.L. Maron, K.O. Reinhart, M. Remke, and W.H. van der Putten. 2018. Relative importance of competition and plant soil feedbacks, their context dependency and implications for coexistence. Ecology Letters 21: 1268-1281.
+<br>
+<br>(20) Russell, A.E., S.N. Kivlin and C.V. Hawkes. 2018. Tropical tree species effects on soil pH and biotic factors and the consequence for macroaggregate dynamics. Forests 9: 184.
+<br>
+<br>(19) Kivlin, S.N., J.S. Lynn†, M.R. Kazenel†, K.K. Beals†, and J.A. Rudgers. 2017. Biogeography of plant-associated fungal symbionts in mountain ecosystems: A meta-analysis. Diversity and Distributions 23: 1067-1077.
+<br>
+<br>(18) Hawkes, C.V., B.G. Waring, J.D. Rocca, and S.N. Kivlin. 2017. Historical climate controls soil respiration responses to soil moisture. Proceedings of the National Academy of Sciences 114: 6322-6327.
+<br>
+<br>(17) Bell-Dereske, L.†, C. Vesbach, S.N. Kivlin, S.M. Emery, and J.A. Rudgers. 2017. A leaf endophyte alters belowground microbial communities in Great Lakes dunes. FEMS Microbiology Ecology 93: fix036.
+<br>
+<br>(16) Kivlin, S.N. and C.V. Hawkes. 2016. Tree species, spatial heterogeneity, and seasonality drive soil fungal abundance, richness, and composition in Neotropical rainforests. Environmental Microbiology 18(12): 4662-4673.
+<br>
+<br>(15) Kivlin, S.N. and C.V. Hawkes. 2016. Temporal and spatial variation of soil bacteria richness, composition, and function in a Neotropical rainforest. PLoS ONE 11(7): e0159131.
+<br>
+<br>(14) Ranelli, L.B.*, W. Hendricks*, J.S. Lynn†, S.N. Kivlin, and J.A. Rudgers. 2015. Biotic and abiotic predictors of fungal symbiont distributions in grasses of the Colorado Rockies. Diversity and Distributions 21: 962-976.
+<br>
+<br>(13) Kivlin, S.N. and K.K. Treseder. (invited) 2015. Initial phylogenetic relatedness of saprotrophic fungal communities affects subsequent litter decomposition rates. Microbial Ecology 69: 748-757.
+<br>
+<br>(12) Kivlin, S.N., G.C. Winston, M.L. Goulden, and K.K. Treseder. (invited) 2014. Environmental filtering affects soil fungal community composition more than dispersal limitation at regional scales. Fungal Ecology 12: 14-25.
+<br>
+<br>(11) Rudgers, J.A., S.N. Kivlin, K.D. Whitney, M.V. Price, N.M. Waser, and J. Harte. 2014. Responses of high-altitude graminoids and soil fungi to 20 years of experimental warming. Ecology 95: 1918-1928.
+<br>
+<br>(10) Kivlin, S.N. and K.K. Treseder. (invited) 2014. Soil extracellular enzyme activities correspond with abiotic factors more than fungal community composition. Biogeochemistry 117: 23-97.
+<br>
+<br>(9) Kivlin, S.N., B.G. Waring†, C. Averill†, and C.V. Hawkes. (invited commentary) 2013. Tradeoffs in microbial carbon allocation may mediate soil carbon storage in future climates. Frontiers in Terrestrial Microbiology 4: 261.
+<br>
+<br>(8) Kivlin, S.N., S.M. Emery, and J.A. Rudgers. (invited) 2013. Fungal symbionts alter plant responses to global change. American Journal of Botany 100: 1445-1457.
+<br>
+<br>(7) Hawkes, C.V., S.N. Kivlin, J. Du*, and V.E. Eviner. 2013. The temporal development and additivity of plant-soil feedback in perennial grasses. Plant and Soil 369: 141-150.
+<br>
+<br>(6) Worchel, E.R.†, H.E. Giauque†, and S.N. Kivlin. 2013. Fungal symbionts alter plant drought response. Microbial Ecology 65: 671-678.
+<br>
+<br>(5) Todd-Brown, K., F. Hopkins, S.N. Kivlin, J.M. Talbot, and S.D. Allison. 2012. A framework for representing microbial decomposition in coupled climate models. Biogeochemistry 109: 19-33.
+<br>
+<br>(4) Kivlin, S.N., C.V. Hawkes, and K.K. Treseder. 2011. Global diversity and distribution of arbuscular mycorrhizal fungi. Soil Biology and Biochemistry 43: 2294-2303.
+<br>
+<br>(3) Treseder, K.K., S.N. Kivlin, and C.V. Hawkes. 2011. Evolutionary trade-offs among decomposers may constrain responses to nitrogen. Ecology Letters 14: 933-938.
+<br>
+<br>(2) Hawkes, C.V., S.N. Kivlin, J.D. Rocca, V. Huguet, M.A. Thomsen, and K.B. Suttle. 2011. Fungal community responses to precipitation. Global Change Biology 17: 1637-1645.
+<br>
+<br>(1) Kivlin, S.N. and C.V. Hawkes. 2011. Differentiating between effects of invasion and diversity: impacts of aboveground plant communities on belowground fungal communities. New Phytologist 189: 526-535
+ </p>
+<br>
+<br><h6 class="display-6">Book Chapters</h6>
+<br>
+<br><p>(1) Kivlin, S.N., R. Muscarella, C.V. Hawkes, and K.K. Treseder. 2017. The predictive power of ecological niche models for global arbuscular mycorrhizal fungal biogeography. In L. Tedersoo (Ed.) Biogeography of Mycorrhizal Symbiosis. Springer-Verlag.
+<br>
+<br>(2) Kivlin, S.N. and J.A. Rudgers. Direct and indirect influences of warming on plant fungal endophytes: a physiological and compositional approach. In J Mohan (Ed.)</p>
+          </div>
+        </div>
+      </div>
+  </section>
+
+  <!-- Footer -->
+  <footer class="py-5 bg-black">
+    <div class="container">
+      <p class="m-0 text-center text-white small">Copyright &copy; Stephanie Kivlin 2020</p>
+    </div>
+    <!-- /.container -->
+  </footer>
+
+  <!-- Bootstrap core JavaScript -->
+  <script src="vendor/jquery/jquery.min.js"></script>
+  <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+
+</body>
+
+</html>
