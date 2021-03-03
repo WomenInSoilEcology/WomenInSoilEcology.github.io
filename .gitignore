@@ -1,0 +1,9 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+.Rproj
+# prevent users to commit their own RProject
+.Rproj
+.Rproj.user
+*.Rproj
